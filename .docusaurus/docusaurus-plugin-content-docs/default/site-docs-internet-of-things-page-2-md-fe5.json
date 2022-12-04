@@ -1,0 +1,26 @@
+{
+  "unversionedId": "internet-of-things/page2",
+  "id": "internet-of-things/page2",
+  "isDocsHomePage": false,
+  "title": "Ejemplos de IoT",
+  "description": "Las redes de IoT y los datos que producen están operando en prácticamente todos los aspectos de la vida moderna –en nuestras casas, autos, tiendas, e incluso en nuestros cuerpos–.",
+  "source": "@site/docs/internet-of-things/page2.md",
+  "sourceDirName": "internet-of-things",
+  "slug": "/internet-of-things/page2",
+  "permalink": "/docs/internet-of-things/page2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "¿Qué es el internet de las cosas (IoT)?",
+    "permalink": "/docs/internet-of-things/page1"
+  },
+  "next": {
+    "title": "Desafíos a los que se enfrenta IoT",
+    "permalink": "/docs/internet-of-things/page3"
+  }
+}

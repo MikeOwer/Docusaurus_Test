@@ -1,0 +1,110 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Bienvenido",
+        "href": "/docs/meet-us"
+      },
+      {
+        "type": "category",
+        "label": "Seguridad en la comunicación de datos en una red",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Redes perimetrales",
+            "href": "/docs/data-communication-security/page1"
+          },
+          {
+            "type": "link",
+            "label": "Otros elementos de protección",
+            "href": "/docs/data-communication-security/page2"
+          },
+          {
+            "type": "link",
+            "label": "HoneyNets",
+            "href": "/docs/data-communication-security/page3"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Seguridad en la Web",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "HTTPS (HTTP Secure - Protocolo de transferencia de hipertexto seguro)",
+            "href": "/docs/web-security/page1"
+          },
+          {
+            "type": "link",
+            "label": "Certificado SSL",
+            "href": "/docs/web-security/page2"
+          },
+          {
+            "type": "link",
+            "label": "Tipos de certificados SSL",
+            "href": "/docs/web-security/page3"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Programación de aplicaciones con sockets",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Programación de aplicaciones con sockets",
+            "href": "/docs/sockets-application-programming/page1"
+          },
+          {
+            "type": "link",
+            "label": "Tipos de sockets",
+            "href": "/docs/sockets-application-programming/page2"
+          },
+          {
+            "type": "link",
+            "label": "Cliente-servidor",
+            "href": "/docs/sockets-application-programming/page3"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Internet de las Cosas",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "¿Qué es el internet de las cosas (IoT)?",
+            "href": "/docs/internet-of-things/page1"
+          },
+          {
+            "type": "link",
+            "label": "Ejemplos de IoT",
+            "href": "/docs/internet-of-things/page2"
+          },
+          {
+            "type": "link",
+            "label": "Desafíos a los que se enfrenta IoT",
+            "href": "/docs/internet-of-things/page3"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "web-security/page3",
+  "id": "web-security/page3",
+  "isDocsHomePage": false,
+  "title": "Tipos de certificados SSL",
+  "description": "Existen diferentes tipos de certificados SSL. Los certificados pueden aplicarse a un solo sitio web o a varios, según el tipo:",
+  "source": "@site/docs/web-security/page3.md",
+  "sourceDirName": "web-security",
+  "slug": "/web-security/page3",
+  "permalink": "/docs/web-security/page3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Certificado SSL",
+    "permalink": "/docs/web-security/page2"
+  },
+  "next": {
+    "title": "Programación de aplicaciones con sockets",
+    "permalink": "/docs/sockets-application-programming/page1"
+  }
+}

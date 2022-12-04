@@ -1,0 +1,26 @@
+{
+  "unversionedId": "sockets-application-programming/page3",
+  "id": "sockets-application-programming/page3",
+  "isDocsHomePage": false,
+  "title": "Cliente-servidor",
+  "description": "¿Cuál es la arquitectura entre el cliente - servidor?",
+  "source": "@site/docs/sockets-application-programming/page3.md",
+  "sourceDirName": "sockets-application-programming",
+  "slug": "/sockets-application-programming/page3",
+  "permalink": "/docs/sockets-application-programming/page3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipos de sockets",
+    "permalink": "/docs/sockets-application-programming/page2"
+  },
+  "next": {
+    "title": "¿Qué es el internet de las cosas (IoT)?",
+    "permalink": "/docs/internet-of-things/page1"
+  }
+}

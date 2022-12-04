@@ -1,0 +1,22 @@
+{
+  "unversionedId": "meet-us",
+  "id": "meet-us",
+  "isDocsHomePage": false,
+  "title": "Bienvenido",
+  "description": "Esta página fue desarrollada por:",
+  "source": "@site/docs/meet-us.md",
+  "sourceDirName": ".",
+  "slug": "/meet-us",
+  "permalink": "/docs/meet-us",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Redes perimetrales",
+    "permalink": "/docs/data-communication-security/page1"
+  }
+}

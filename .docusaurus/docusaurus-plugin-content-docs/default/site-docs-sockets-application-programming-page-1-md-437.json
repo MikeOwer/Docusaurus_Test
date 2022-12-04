@@ -1,0 +1,26 @@
+{
+  "unversionedId": "sockets-application-programming/page1",
+  "id": "sockets-application-programming/page1",
+  "isDocsHomePage": false,
+  "title": "Programación de aplicaciones con sockets",
+  "description": "¿Qué son los sockets?",
+  "source": "@site/docs/sockets-application-programming/page1.md",
+  "sourceDirName": "sockets-application-programming",
+  "slug": "/sockets-application-programming/page1",
+  "permalink": "/docs/sockets-application-programming/page1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipos de certificados SSL",
+    "permalink": "/docs/web-security/page3"
+  },
+  "next": {
+    "title": "Tipos de sockets",
+    "permalink": "/docs/sockets-application-programming/page2"
+  }
+}

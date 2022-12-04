@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-communication-security/page1",
+  "id": "data-communication-security/page1",
+  "isDocsHomePage": false,
+  "title": "Redes perimetrales",
+  "description": "¿Qué es?",
+  "source": "@site/docs/data-communication-security/page1.md",
+  "sourceDirName": "data-communication-security",
+  "slug": "/data-communication-security/page1",
+  "permalink": "/docs/data-communication-security/page1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bienvenido",
+    "permalink": "/docs/meet-us"
+  },
+  "next": {
+    "title": "Otros elementos de protección",
+    "permalink": "/docs/data-communication-security/page2"
+  }
+}

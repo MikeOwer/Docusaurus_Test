@@ -1,0 +1,26 @@
+{
+  "unversionedId": "sockets-application-programming/page2",
+  "id": "sockets-application-programming/page2",
+  "isDocsHomePage": false,
+  "title": "Tipos de sockets",
+  "description": "SOCK_DGRAM",
+  "source": "@site/docs/sockets-application-programming/page2.md",
+  "sourceDirName": "sockets-application-programming",
+  "slug": "/sockets-application-programming/page2",
+  "permalink": "/docs/sockets-application-programming/page2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programación de aplicaciones con sockets",
+    "permalink": "/docs/sockets-application-programming/page1"
+  },
+  "next": {
+    "title": "Cliente-servidor",
+    "permalink": "/docs/sockets-application-programming/page3"
+  }
+}

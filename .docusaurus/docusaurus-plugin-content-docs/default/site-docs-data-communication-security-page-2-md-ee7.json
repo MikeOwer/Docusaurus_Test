@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-communication-security/page2",
+  "id": "data-communication-security/page2",
+  "isDocsHomePage": false,
+  "title": "Otros elementos de protección",
+  "description": "IPS (Sistemas de prevención de intrusiones) / IDS (Sistemas de detección de intrusiones)",
+  "source": "@site/docs/data-communication-security/page2.md",
+  "sourceDirName": "data-communication-security",
+  "slug": "/data-communication-security/page2",
+  "permalink": "/docs/data-communication-security/page2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Redes perimetrales",
+    "permalink": "/docs/data-communication-security/page1"
+  },
+  "next": {
+    "title": "HoneyNets",
+    "permalink": "/docs/data-communication-security/page3"
+  }
+}

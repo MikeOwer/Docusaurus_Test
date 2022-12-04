@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "meet-us",
+          "docs": [
+            {
+              "id": "data-communication-security/page1",
+              "path": "/docs/data-communication-security/page1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-communication-security/page2",
+              "path": "/docs/data-communication-security/page2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-communication-security/page3",
+              "path": "/docs/data-communication-security/page3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internet-of-things/page1",
+              "path": "/docs/internet-of-things/page1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internet-of-things/page2",
+              "path": "/docs/internet-of-things/page2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internet-of-things/page3",
+              "path": "/docs/internet-of-things/page3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "meet-us",
+              "path": "/docs/meet-us",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sockets-application-programming/page1",
+              "path": "/docs/sockets-application-programming/page1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sockets-application-programming/page2",
+              "path": "/docs/sockets-application-programming/page2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sockets-application-programming/page3",
+              "path": "/docs/sockets-application-programming/page3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-security/page1",
+              "path": "/docs/web-security/page1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-security/page2",
+              "path": "/docs/web-security/page2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-security/page3",
+              "path": "/docs/web-security/page3",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

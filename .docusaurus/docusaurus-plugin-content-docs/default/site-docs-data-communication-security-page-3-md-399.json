@@ -1,0 +1,26 @@
+{
+  "unversionedId": "data-communication-security/page3",
+  "id": "data-communication-security/page3",
+  "isDocsHomePage": false,
+  "title": "HoneyNets",
+  "description": "¿Qué es?",
+  "source": "@site/docs/data-communication-security/page3.md",
+  "sourceDirName": "data-communication-security",
+  "slug": "/data-communication-security/page3",
+  "permalink": "/docs/data-communication-security/page3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Otros elementos de protección",
+    "permalink": "/docs/data-communication-security/page2"
+  },
+  "next": {
+    "title": "HTTPS (HTTP Secure - Protocolo de transferencia de hipertexto seguro)",
+    "permalink": "/docs/web-security/page1"
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\yugim\\Desktop\\TestGitDocusaurus\\sidebars.js",
+          "contentPath": "C:\\Users\\yugim\\Desktop\\TestGitDocusaurus\\docs",
+          "contentPathLocalized": "C:\\Users\\yugim\\Desktop\\TestGitDocusaurus\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "meet-us",
+          "docs": [
+            {
+              "unversionedId": "data-communication-security/page1",
+              "id": "data-communication-security/page1",
+              "isDocsHomePage": false,
+              "title": "Redes perimetrales",
+              "description": "¿Qué es?",
+              "source": "@site/docs/data-communication-security/page1.md",
+              "sourceDirName": "data-communication-security",
+              "slug": "/data-communication-security/page1",
+              "permalink": "/docs/data-communication-security/page1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bienvenido",
+                "permalink": "/docs/meet-us"
+              },
+              "next": {
+                "title": "Otros elementos de protección",
+                "permalink": "/docs/data-communication-security/page2"
+              }
+            },
+            {
+              "unversionedId": "data-communication-security/page2",
+              "id": "data-communication-security/page2",
+              "isDocsHomePage": false,
+              "title": "Otros elementos de protección",
+              "description": "IPS (Sistemas de prevención de intrusiones) / IDS (Sistemas de detección de intrusiones)",
+              "source": "@site/docs/data-communication-security/page2.md",
+              "sourceDirName": "data-communication-security",
+              "slug": "/data-communication-security/page2",
+              "permalink": "/docs/data-communication-security/page2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Redes perimetrales",
+                "permalink": "/docs/data-communication-security/page1"
+              },
+              "next": {
+                "title": "HoneyNets",
+                "permalink": "/docs/data-communication-security/page3"
+              }
+            },
+            {
+              "unversionedId": "data-communication-security/page3",
+              "id": "data-communication-security/page3",
+              "isDocsHomePage": false,
+              "title": "HoneyNets",
+              "description": "¿Qué es?",
+              "source": "@site/docs/data-communication-security/page3.md",
+              "sourceDirName": "data-communication-security",
+              "slug": "/data-communication-security/page3",
+              "permalink": "/docs/data-communication-security/page3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Otros elementos de protección",
+                "permalink": "/docs/data-communication-security/page2"
+              },
+              "next": {
+                "title": "HTTPS (HTTP Secure - Protocolo de transferencia de hipertexto seguro)",
+                "permalink": "/docs/web-security/page1"
+              }
+            },
+            {
+              "unversionedId": "internet-of-things/page1",
+              "id": "internet-of-things/page1",
+              "isDocsHomePage": false,
+              "title": "¿Qué es el internet de las cosas (IoT)?",
+              "description": "Es el proceso que permite conectar los elementos físicos cotidianos al Internet: desde los objetos domésticos comunes, como las bombillas de luz, hasta los recursos para la atención de la salud, como los dispositivos médicos; las prendas y los accesorios personales inteligentes; e incluso los sistemas de las ciudades inteligentes.",
+              "source": "@site/docs/internet-of-things/page1.md",
+              "sourceDirName": "internet-of-things",
+              "slug": "/internet-of-things/page1",
+              "permalink": "/docs/internet-of-things/page1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cliente-servidor",
+                "permalink": "/docs/sockets-application-programming/page3"
+              },
+              "next": {
+                "title": "Ejemplos de IoT",
+                "permalink": "/docs/internet-of-things/page2"
+              }
+            },
+            {
+              "unversionedId": "internet-of-things/page2",
+              "id": "internet-of-things/page2",
+              "isDocsHomePage": false,
+              "title": "Ejemplos de IoT",
+              "description": "Las redes de IoT y los datos que producen están operando en prácticamente todos los aspectos de la vida moderna –en nuestras casas, autos, tiendas, e incluso en nuestros cuerpos–.",
+              "source": "@site/docs/internet-of-things/page2.md",
+              "sourceDirName": "internet-of-things",
+              "slug": "/internet-of-things/page2",
+              "permalink": "/docs/internet-of-things/page2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "¿Qué es el internet de las cosas (IoT)?",
+                "permalink": "/docs/internet-of-things/page1"
+              },
+              "next": {
+                "title": "Desafíos a los que se enfrenta IoT",
+                "permalink": "/docs/internet-of-things/page3"
+              }
+            },
+            {
+              "unversionedId": "internet-of-things/page3",
+              "id": "internet-of-things/page3",
+              "isDocsHomePage": false,
+              "title": "Desafíos a los que se enfrenta IoT",
+              "description": "Preocupaciones por la seguridad",
+              "source": "@site/docs/internet-of-things/page3.md",
+              "sourceDirName": "internet-of-things",
+              "slug": "/internet-of-things/page3",
+              "permalink": "/docs/internet-of-things/page3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ejemplos de IoT",
+                "permalink": "/docs/internet-of-things/page2"
+              }
+            },
+            {
+              "unversionedId": "meet-us",
+              "id": "meet-us",
+              "isDocsHomePage": false,
+              "title": "Bienvenido",
+              "description": "Esta página fue desarrollada por:",
+              "source": "@site/docs/meet-us.md",
+              "sourceDirName": ".",
+              "slug": "/meet-us",
+              "permalink": "/docs/meet-us",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Redes perimetrales",
+                "permalink": "/docs/data-communication-security/page1"
+              }
+            },
+            {
+              "unversionedId": "sockets-application-programming/page1",
+              "id": "sockets-application-programming/page1",
+              "isDocsHomePage": false,
+              "title": "Programación de aplicaciones con sockets",
+              "description": "¿Qué son los sockets?",
+              "source": "@site/docs/sockets-application-programming/page1.md",
+              "sourceDirName": "sockets-application-programming",
+              "slug": "/sockets-application-programming/page1",
+              "permalink": "/docs/sockets-application-programming/page1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tipos de certificados SSL",
+                "permalink": "/docs/web-security/page3"
+              },
+              "next": {
+                "title": "Tipos de sockets",
+                "permalink": "/docs/sockets-application-programming/page2"
+              }
+            },
+            {
+              "unversionedId": "sockets-application-programming/page2",
+              "id": "sockets-application-programming/page2",
+              "isDocsHomePage": false,
+              "title": "Tipos de sockets",
+              "description": "SOCK_DGRAM",
+              "source": "@site/docs/sockets-application-programming/page2.md",
+              "sourceDirName": "sockets-application-programming",
+              "slug": "/sockets-application-programming/page2",
+              "permalink": "/docs/sockets-application-programming/page2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Programación de aplicaciones con sockets",
+                "permalink": "/docs/sockets-application-programming/page1"
+              },
+              "next": {
+                "title": "Cliente-servidor",
+                "permalink": "/docs/sockets-application-programming/page3"
+              }
+            },
+            {
+              "unversionedId": "sockets-application-programming/page3",
+              "id": "sockets-application-programming/page3",
+              "isDocsHomePage": false,
+              "title": "Cliente-servidor",
+              "description": "¿Cuál es la arquitectura entre el cliente - servidor?",
+              "source": "@site/docs/sockets-application-programming/page3.md",
+              "sourceDirName": "sockets-application-programming",
+              "slug": "/sockets-application-programming/page3",
+              "permalink": "/docs/sockets-application-programming/page3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tipos de sockets",
+                "permalink": "/docs/sockets-application-programming/page2"
+              },
+              "next": {
+                "title": "¿Qué es el internet de las cosas (IoT)?",
+                "permalink": "/docs/internet-of-things/page1"
+              }
+            },
+            {
+              "unversionedId": "web-security/page1",
+              "id": "web-security/page1",
+              "isDocsHomePage": false,
+              "title": "HTTPS (HTTP Secure - Protocolo de transferencia de hipertexto seguro)",
+              "description": "¿Qué es HTTPS?",
+              "source": "@site/docs/web-security/page1.md",
+              "sourceDirName": "web-security",
+              "slug": "/web-security/page1",
+              "permalink": "/docs/web-security/page1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HoneyNets",
+                "permalink": "/docs/data-communication-security/page3"
+              },
+              "next": {
+                "title": "Certificado SSL",
+                "permalink": "/docs/web-security/page2"
+              }
+            },
+            {
+              "unversionedId": "web-security/page2",
+              "id": "web-security/page2",
+              "isDocsHomePage": false,
+              "title": "Certificado SSL",
+              "description": "¿Qué es?",
+              "source": "@site/docs/web-security/page2.md",
+              "sourceDirName": "web-security",
+              "slug": "/web-security/page2",
+              "permalink": "/docs/web-security/page2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HTTPS (HTTP Secure - Protocolo de transferencia de hipertexto seguro)",
+                "permalink": "/docs/web-security/page1"
+              },
+              "next": {
+                "title": "Tipos de certificados SSL",
+                "permalink": "/docs/web-security/page3"
+              }
+            },
+            {
+              "unversionedId": "web-security/page3",
+              "id": "web-security/page3",
+              "isDocsHomePage": false,
+              "title": "Tipos de certificados SSL",
+              "description": "Existen diferentes tipos de certificados SSL. Los certificados pueden aplicarse a un solo sitio web o a varios, según el tipo:",
+              "source": "@site/docs/web-security/page3.md",
+              "sourceDirName": "web-security",
+              "slug": "/web-security/page3",
+              "permalink": "/docs/web-security/page3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Certificado SSL",
+                "permalink": "/docs/web-security/page2"
+              },
+              "next": {
+                "title": "Programación de aplicaciones con sockets",
+                "permalink": "/docs/sockets-application-programming/page1"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "meet-us"
+              },
+              {
+                "type": "category",
+                "label": "Seguridad en la comunicación de datos en una red",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "data-communication-security/page1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "data-communication-security/page2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "data-communication-security/page3"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Seguridad en la Web",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "web-security/page1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "web-security/page2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "web-security/page3"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Programación de aplicaciones con sockets",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "sockets-application-programming/page1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sockets-application-programming/page2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sockets-application-programming/page3"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Internet de las Cosas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "internet-of-things/page1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "internet-of-things/page2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "internet-of-things/page3"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

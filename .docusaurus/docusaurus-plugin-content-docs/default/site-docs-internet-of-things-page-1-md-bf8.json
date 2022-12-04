@@ -1,0 +1,26 @@
+{
+  "unversionedId": "internet-of-things/page1",
+  "id": "internet-of-things/page1",
+  "isDocsHomePage": false,
+  "title": "¿Qué es el internet de las cosas (IoT)?",
+  "description": "Es el proceso que permite conectar los elementos físicos cotidianos al Internet: desde los objetos domésticos comunes, como las bombillas de luz, hasta los recursos para la atención de la salud, como los dispositivos médicos; las prendas y los accesorios personales inteligentes; e incluso los sistemas de las ciudades inteligentes.",
+  "source": "@site/docs/internet-of-things/page1.md",
+  "sourceDirName": "internet-of-things",
+  "slug": "/internet-of-things/page1",
+  "permalink": "/docs/internet-of-things/page1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cliente-servidor",
+    "permalink": "/docs/sockets-application-programming/page3"
+  },
+  "next": {
+    "title": "Ejemplos de IoT",
+    "permalink": "/docs/internet-of-things/page2"
+  }
+}

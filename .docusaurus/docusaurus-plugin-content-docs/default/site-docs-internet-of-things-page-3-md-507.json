@@ -1,0 +1,22 @@
+{
+  "unversionedId": "internet-of-things/page3",
+  "id": "internet-of-things/page3",
+  "isDocsHomePage": false,
+  "title": "Desafíos a los que se enfrenta IoT",
+  "description": "Preocupaciones por la seguridad",
+  "source": "@site/docs/internet-of-things/page3.md",
+  "sourceDirName": "internet-of-things",
+  "slug": "/internet-of-things/page3",
+  "permalink": "/docs/internet-of-things/page3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ejemplos de IoT",
+    "permalink": "/docs/internet-of-things/page2"
+  }
+}

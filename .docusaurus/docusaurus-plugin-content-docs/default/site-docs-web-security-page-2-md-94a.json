@@ -1,0 +1,26 @@
+{
+  "unversionedId": "web-security/page2",
+  "id": "web-security/page2",
+  "isDocsHomePage": false,
+  "title": "Certificado SSL",
+  "description": "¿Qué es?",
+  "source": "@site/docs/web-security/page2.md",
+  "sourceDirName": "web-security",
+  "slug": "/web-security/page2",
+  "permalink": "/docs/web-security/page2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTPS (HTTP Secure - Protocolo de transferencia de hipertexto seguro)",
+    "permalink": "/docs/web-security/page1"
+  },
+  "next": {
+    "title": "Tipos de certificados SSL",
+    "permalink": "/docs/web-security/page3"
+  }
+}
